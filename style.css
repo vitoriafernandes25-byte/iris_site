@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(183, 140, 240);
+    padding: 50px;
+    font-family: "Special Gothic", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+h1 {
+    color: rgb(137, 28, 240);
+    font-size: 50px;
+    background-color: rgb(191, 123, 255);
+    text-align: center;
+    font-family: "Playwrite CU Guides", cursive;
+}
+
+.texto {
+    font-size: 20px;
+    background-color: rgb(191, 122, 255);
+    text-align: center;
+    padding: 40px;
+    border-radius: 15px;
+}
+
+.imagem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.botao{
+    padding: 30px;
+    background-color: rgb(67, 7, 124);
+    color: white;
+    border-radius: 15px;
+}
+
+.instrucao{
+    background-color: rgb(191, 122, 255);
+    padding: 40px;
+    border-radius: 15px;
+    font-family: "Arapey", serif;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
