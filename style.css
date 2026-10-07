@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(183, 140, 240);
+    background-color: rgb(247, 245, 218);
     padding: 50px;
     font-family: "Special Gothic", sans-serif;
     display: flex;
@@ -19,16 +19,16 @@ body {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    background-color: rgb(187, 120, 250);
+    background-color: rgb(209, 210, 211);
     padding: 20px;
   font-family: "Merriweather", serif;
   gap: 100px;
 }
 
 h1 {
-    color: rgb(137, 28, 240);
+    color: rgb();
     font-size: 50px;
-    background-color: rgb(191, 123, 255);
+    background-color: rgb(209, 210, 211);
     text-align: center;
     font-family: "Merriweather", serif;
     padding: 20px;
@@ -36,7 +36,7 @@ h1 {
 
 .texto {
     font-size: 20px;
-    background-color: rgb(191, 122, 255);
+    background-color: rgb(209, 210, 211);
     text-align: center;
     padding: 40px;
     border-radius: 15px;
@@ -50,13 +50,13 @@ h1 {
 
 .botao{
     padding: 30px;
-    background-color: rgb(67, 7, 124);
+    background-color: rgb(2,31,59);
     color: white;
     border-radius: 15px;
 }
 
 .instrucao{
-    background-color: rgb(191, 122, 255);
+    background-color: rgb(209, 210, 211);
     padding: 40px;
     border-radius: 15px;
     font-family: "Arapey", serif;
