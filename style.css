@@ -5,7 +5,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url("/fundo.png");
+    background-image: url("Moldura\ Ecológica\ Verde\ Seamless.png");
     background-position: top center;
     background-size: contain;
 }
@@ -21,7 +21,7 @@ body {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    background-color: rgb(209, 210, 211);
+    background-color: rgb(133, 186, 240);
     padding: 20px;
   font-family: "Merriweather", serif;
   gap: 100px;
@@ -30,7 +30,9 @@ body {
 h1 {
     color: rgb();
     font-size: 50px;
-    background-color: rgb(1, 44, 85);
+    background-color: rgb(14, 75, 133 );
+    border-radius: 15px;
+    color: white;
     text-align: center;
     font-family: "Merriweather", serif;
     padding: 20px;
@@ -52,27 +54,41 @@ h1 {
 
 .botao{
     padding: 30px;
-    background-color: rgb(2,31,59);
+    background-color: rgb(14, 75, 133);
     color: white;
     border-radius: 15px;
     font-family: "Chelsea Market", system-ui;
 }
 
 .instrucao{
-    background-color: rgb(209, 210, 211);
+    background-color: rgb(133, 186, 240);
     padding: 40px;
     border-radius: 15px;
-    font-family: "Arapey", serif;
+    font-family: "Special Gothic", sans-serif;
     font-size: 20px;
     margin-bottom: 50px;
 }
+
+.instrucao2{
+    background-color: rgb(133, 186, 240);
+    padding: 40px;
+    border-radius: 15px;
+    font-family: "Special Gothic", sans-serif;
+    font-size: 20px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .pequena{
-   width: 700px; 
+   width: 700px;
 }
 
 .caixaBotoes{
     display: flex;
     gap: 40px;
+ 
 }
 
 .botom{
@@ -82,5 +98,5 @@ h1 {
 
 .aurora{
     display: flex;
-    gap: 437px;
+    gap: 40px;
 }
